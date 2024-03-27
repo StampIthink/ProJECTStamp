@@ -1,1 +1,14 @@
-[{}]
+[
+  {
+    "uuid": "64d2cf33-1e38-3c5d-b3ec-3c7e5105a914",
+    "name": "Its_stmp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2932c4ab-292b-3d91-ac0b-fced3d68e388",
+    "name": "Its_Stamp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
